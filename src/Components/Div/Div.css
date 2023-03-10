@@ -1,0 +1,30 @@
+.p {
+    transform-origin: left;
+    transform: rotate(0deg);
+    border-radius: 50%;
+    position: absolute;
+}
+.seconds {
+    width: 100px;
+    height: 3px;
+    background-color: #F00;
+}
+.minutes {
+    width: 120px;
+    height: 7px;
+    background-color: #FFF;
+}
+.hours {
+    width: 70px;
+    height: 10px;
+    background-color: #FFF;
+}
+.fit {
+    width: 20px;
+    height: 20px;
+    background-color: #FFF;
+    border-radius: 50%;
+    position: absolute;
+    margin-top: -5px;
+    margin-left: -5px;
+}
